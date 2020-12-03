@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-run_analysis
+# Getting-and-Cleaning-Data-run_analysis.R.  This README describes how the run_analysis.R script works
 
 To run the script, open the file titled run_analysis.R.  Run the entire script (in RStudio using windows, highlight all of the code and hit ctrl+enter).  Once you run the script, check your working directory for a new file named, "meanColumnsGroupedByActivityAndVolunteer.txt"
 
